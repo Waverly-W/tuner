@@ -1,0 +1,14 @@
+{
+  "title": "39262a29-d70c-492c-95c5-b044e69887e5_test_book",
+  "author": null,
+  "duration": 12.072925,
+  "total_chapters": 1,
+  "chapters": [
+    {
+      "id": "raw",
+      "title": "Raw Content",
+      "file": "chapters/raw_Raw Content.wav",
+      "duration": 12.072925
+    }
+  ]
+}
